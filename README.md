@@ -1,2 +1,0 @@
-# CalculadoraPpy
-Calculadora Programando Paraguay
